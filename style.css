@@ -1,13 +1,57 @@
+body{
+    color: cadetblue;
+}
 
-.table {
-	
+table {
     border-collapse: collapse;
+    border-radius: 20%;
+    border-style: double;
+    width: 25%;
   }
   
-  table,
-  tr,
-  td {
-      border: 1px solid black;
-      empty-cells: show;
+table,td {
+    empty-cells: show;
+  }
+
+td{
+    display: flex;
+    flex-direction: row;
+    border: 2px solid #0000002b;
+    border-top: 0px;
+  }
+
+.inputText{
+    width:90%;
+    border: none;
+    height:2em;
+  }
+
+.btnDelete{
+    width:10%;
+  }
+
+.tableHeading{
+    height:2em;
+    background-color: aqua;
+    border-bottom: 0px;
+    font-size: 1.5em;
+  }
   
+.text{
+    display:flex;
+    font-size: 1.5em;
+    justify-content: center;   
+    width: 100%;
+    position: relative;
+  }
+
+.addButton{
+    justify-content: end;
+    position: absolute;
+    right:0;
+    height:3em;
+}
+
+.heading{
+    font-size: 1.5em;
   }

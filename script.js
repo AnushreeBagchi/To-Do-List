@@ -1,5 +1,5 @@
-$("#addButton").on('click',function(){
-	$('tbody').append('<tr><td><img   class="btnDelete" src="deleteImage.png"> <input type="text" class="" > </td></tr>')
+$(".addButton").on('click',function(){
+	$('tbody').append('<tr><td> <input type="text" class="inputText" > </td></tr>')
 });
 
 $(".btnDelete").on('click',function(){
