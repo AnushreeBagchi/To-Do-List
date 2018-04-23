@@ -47,8 +47,7 @@ td{
 }
 
 .addText{
-  height:2em;
-  width:85%;
+  width:100%;
 }
 
 .addButton{  
@@ -57,18 +56,11 @@ td{
     margin-top:0.2em;
 }
 
-.divAdd{
-  width:100%;
-  display:flex;
-
-}
-
-
 .heading{
     font-size: 1.5em;
   }
 
-.finished{
+.finished .text{
   text-decoration: line-through;
 }
 
