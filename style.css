@@ -19,6 +19,7 @@ td{
     flex-direction: row;
     border: 2px solid #0000002b;
     border-top: 0px;
+    height:2em;
   }
 
 .inputText{
@@ -27,8 +28,10 @@ td{
     height:2em;
   }
 
+
 .btnDelete{
     width:15%;
+
   }
 
 .tableHeading{
@@ -39,22 +42,38 @@ td{
   }
   
 .text{
-    display:flex;
-    font-size: 1.5em;
-    justify-content: center;   
-    width: 100%;
-    position: relative;
-  }
-
-.addButton{
-    
-    position: absolute;
-    right: 0;
-    top:0;
-    
-    height:2em;
+  width:80%;
+  margin-left: 1em;
 }
+
+.addText{
+  height:2em;
+  width:85%;
+}
+
+.addButton{  
+    height:2em;
+    width:15%;
+    margin-top:0.2em;
+}
+
+.divAdd{
+  width:100%;
+  display:flex;
+
+}
+
 
 .heading{
     font-size: 1.5em;
   }
+
+.finished{
+  text-decoration: line-through;
+}
+
+.lists{
+  display: flex;
+  width:100%;
+}
+
