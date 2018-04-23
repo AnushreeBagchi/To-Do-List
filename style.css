@@ -1,5 +1,6 @@
 body{
     color: cadetblue;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 table {
@@ -21,13 +22,13 @@ td{
   }
 
 .inputText{
-    width:90%;
+    width:85%;
     border: none;
     height:2em;
   }
 
 .btnDelete{
-    width:10%;
+    width:15%;
   }
 
 .tableHeading{
@@ -46,10 +47,12 @@ td{
   }
 
 .addButton{
-    justify-content: end;
+    
     position: absolute;
-    right:0;
-    height:3em;
+    right: 0;
+    top:0;
+    
+    height:2em;
 }
 
 .heading{
