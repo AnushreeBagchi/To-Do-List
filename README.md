@@ -13,5 +13,6 @@ Just check it out!! [https://anushreebagchi.github.io/To-Do-List/](https://anush
 
 ![alt text](https://media.giphy.com/media/69u7Zh0YomvT0hF8CV/giphy.gif "Image of the project")
 
-Installation: Clone or download this repo and simply open the index.html file and enjoy!
+### Installation 
+Clone or download this repo and simply open the index.html file and enjoy!
 
