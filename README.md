@@ -12,7 +12,7 @@ Clone or download this repo and simply open the index.html file and enjoy!
 - Once the task is complete, you can strike it off.
 - You can also delete a To Do task.
 
-Just check it out!! [https://anushreebagchi.github.io/To-Do-List/](https://anushreebagchi.github.io/To-Do-List/)
+Just check it out!! [https://anushree.tech/To-Do-List/](https://anushree.tech/To-Do-List/)
 
-![alt text](https://media.giphy.com/media/69u7Zh0YomvT0hF8CV/giphy.gif "Image of the project")
+![alt text](https://media.giphy.com/media/LqgaODS6IStS15NsRa/giphy.gif "Image of the project")
 
